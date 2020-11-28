@@ -1,7 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;400;600;700&display=swap");
 
 body {
-  background: #020201;
+  /* background-image:url("assets/66.png"); */
+  background-color: black;
   font-family: "Roboto Slab", serif;
 }
 
@@ -40,12 +41,12 @@ img {
   overflow: hidden;
   transition: 0.1s;
 }
-.btn-entrar:hover {
+/* .btn-entrar:hover {
   color: whitesmoke;
   background: black;
   box-shadow: 0 0 10px, 0 0 40px, 0 0 80px;
   transition-delay: 1s;
-}
+}  */
 .btn-entrar span {
   position: absolute;
   display: block;
